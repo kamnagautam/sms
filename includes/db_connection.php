@@ -1,8 +1,8 @@
 <?php // Connecting to database...
 
 define("DB_SERVER", "localhost");
-define("DB_USER", "root");
-define("DB_PASS", "ramnik733");
+define("DB_USER", "ENTER USERNAME HERE");
+define("DB_PASS", "ENTER PASSWORD HERE");
 define("DB_NAME", "sms");
 
 
